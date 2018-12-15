@@ -1,0 +1,287 @@
+Definitions,Results
+"Machine learning is a field of computer science that gives computer systems the ability to learn specific task with data, without being explicitly programmed",T
+machine learning explores the study and construction of algorithms that can learn from and make predictions on data,T
+"Machine learning is a computer program  learn from experience E with respect to some class of tasks T and performance measure P if its performance at tasks in T, as measured by P, improves with experience E.",T
+"machine learning is a method used to devise complex models and algorithms that lend themselves to prediction n commercial use, this is known as predictive analytics.",T
+"Machine learning is an artificial intelligence (AI) discipline geared toward the technological development of human knowledge. Machine learning allows computers to handle new situations via analysis, self-training, observation and experience.",T
+"Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.",T
+"Machine Learning is the science of getting computers to learn and act like humans do, and improve their learning over time in autonomous fashion, by feeding them data and information in the form of observations and real-world interactions.",T
+"Machine learning is a field of computer science that gives computer systems the ability to learn with data, without being explicitly programmed.",T
+Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate in predicting outcomes without being explicitly programmed. The basic premise of machine learning is to build algorithms that can receive input data and use statistical analysis to predict an output value within an acceptable range. ,T
+Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.,T
+Machine learning is the concept that a computer program can learn and adapt to new data without human interference. Machine learning is a field of artificial intelligence (AI) that keeps a computer’s built-in algorithms current regardless of changes in the worldwide economy.,T
+"Machine learning is Ability of a machine to improve its own performance through the use of a software that employs artificial intelligence techniques to mimic the ways by which humans seem to learn, such as repetition and experience.",T
+"Machine Learning at its most basic is the practice of using algorithms to parse data, learn from it, and then make a determination or prediction about something in the world. ",T
+"Machine learning is The capacity of a computer to learn from experience, i.e. to modify its processing on the basis of newly acquired information.",T
+"Machine learning is a core sub-area of artificial intelligence; it enables computers to get into a mode of self-learning without being explicitly programmed. When exposed to new data, these computer programs are enabled to learn, grow, change, and develop by themselves.",T
+Machine learning is Field of study that gives computers the ability to learn without being explicitly programmed.,T
+machine learning is to enable software applications to become more accurate without being explicitly programmed. But how do machines actually learn,T
+machine learning is about setting systems to the task of searching through data to look for patterns and adjusting actions accordingly.,T
+machine learning is teaching a computer to learn concepts using data,T
+Machine learning is a method of teaching computers to make and improve predictions or behaviors based on some data.,T
+"Machine learning studies computer algorithms for learning to do stuff. We might, for instance, be interested in learning to complete a task, or to make accurate predictions, or to behave intelligently.",T
+"Machine learning refers to the process by which computers develop pattern recognition, or the ability to continuously learn from and make predictions based on data, then make adjustments without being specifically programmed to do so. A form of artificial intelligence, machine learning effectively automates the process of analytical model building and allows machines to adapt to new scenarios independently.",T
+"Machine learning is a technological tool that operates on the concept that a computer can learn information without human mediation. It uses algorithms to examine large volumes of information or training data to discover unique patterns. This system analyzes these patterns, groups them accordingly, and makes predictions. With traditional machine learning, the computer learns how to decipher information as it has been labeled by humans — hence, machine learning is a program that learns from a model of human-labeled datasets.",T
+" Machine learning is a huge field, with hundreds of different algorithms for solving myriad different problems",T
+"Machine learning is closely related to computational statistics, which also focuses on prediction-making through the use of computers",T
+"Machine learning is the collective behavior of decentralized, self-organized systems, natural or artificial. The concept is employed in work on artificial intelligence.",F
+"Machine learning is the collective behaviour of a group of animals, esp social insects such as ants, bees, and termites, that are each following very basic rules.",F
+Machine learning is an artificial-intelligence approach to problem solving using algorithms based on the self-organized collective behaviour of social insects.,F
+"Machine learning is an emerging field of biologically-inspired artificial intelligence based on the behavioral models of social insects such as ants, bees, wasps, termites etc",F
+Machine learning is the idea of coordinating massive numbers of individual technology entities to work together.,F
+"Machine learning is (Biology) the collective behaviour of a group of animals, esp social insects such as ants, bees, and termites, that are each following very basic rules",F
+Machine learning is an artificial-intelligence approach to problem solving using algorithms based on the self-organized collective behaviour of social insects.,F
+Machine learning is a kind of artificial intelligence that aims to simulate the behavior of swarms or social insects.,F
+"Machine learning is the discipline that deals with natural and artificial systems composed of many individuals that coordinate using decentralized control and self-organization. In particular,
+ the discipline focuses on the collective behaviors that result from the local interactions of the individuals with each other and with their environment",F
+"Machine learning is a fundamental guiding principle of many natural systems. While it is most apparent in social insects such as ants, bees and termites, the underlying phenomenon of self-organization
+ is scale-free, governing multi-body systems ranging from atoms to galaxies.",F
+"Machine learning is based on collective behavior of self-organized systems. Typical swarm intelligence schemes include Particle Swarm Optimization (PSO), Ant Colony System (ACS),
+ Stochastic Diffusion Search (SDS), Bacteria Foraging (BF), the Artificial Bee Colony (ABC), and so on",F
+"Machine learning is concerned with the design of intelligent multi-agent systems by taking inspiration  from the collective behavior of social insects such as ants, termites,  bees, and wasps, 
+as well as from other animal societies such as flocks of birds  or schools of fish.",F
+"Machine learning is a type of artificial  intelligence based on the collective behavior of  decentralized, self-organized systems.",F
+"Machine learning is the study of computational systems inspired by the 'collective intelligence'. Collective Intelligence emerges through the cooperation of large numbers 
+of homogeneous agents in the environment. Examples include schools of fish, flocks of birds, and colonies of ants",F
+"Machine learning is a field of computer science that designs and  studies efficient computational methods for solving problems in a way  that
+ is inspired by the behavior of real swarms or insect colonies.",F
+"Machine learning is a large number of homogenous, simple agents interacting locally  among themselves, and their environment, with no central control to allow a
+ global  interesting behaviour to emerge.",F
+"Machine learning is the collective behavior  emerged from social insects working under very few rules. Self-organization
+ is the main  theme with limited restrictions from interactions among agents.",F
+"Machine learning is an integral part in the field of artificial intelligence, is gradually gaining prominence, as more and more high complexity problems 
+require solutions which may be sub-optimal but yet achievable within a reasonable period of time. Mostly inspired by biological systems, swarm intelligence adopts  the collective behaviour of an organized group of animals esearchgate",F
+Machine learning is Collective intelligence emerging in groups of (simple) agents,F
+"Machine learning is  a recent computational  and behavioral metaphor for solving distributed  problems that originally took its inspiration from 
+the  biological examples provided by social insects (ants,  termites, bees, wasps) and by swarming, flocking,  herding behaviors in vertebrates.",F
+Machine learning is  a structured collection of  interacting organisms (or agents).,F
+Machine learning is the emergent collective intelligence of groups of  simple individuals,F
+"Machine learning is any attempt to design  algorithms or distributed problem-solving devices  inspired by the collective behavior of social insect  colonies and other animal societies. (This includes the behaviors of certain ants, honeybees,  wasps, cockroaches, beetles, caterpillars, and termites)",F
+Machine learning is originally used in the context of  cellular robotic systems to describe the self-organization  of simple mechanical agents through nearest-neighbor  interaction.,F
+deep learning is a subset of machine learning in Artificial Intelligence (AI) that has networks which are capable of learning unsupervised from data that is unstructured or unlabeled.,T1
+"deep learning is part of a broader family of machine learning methods based on learning data representations, as opposed to task-specific algorithms. Learning can be supervised, semi-supervised or unsupervised.",T1
+deep learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.,T1
+deep learning is a set of machine learning algorithms that model high-level abstractions in data using architectures consisting of multiple nonlinear transformations.,T1
+"deep learning is an aspect of artificial intelligence (AI) that is concerned with emulating the learning approach that human beings use to gain certain types of knowledge. At its simplest, deep learning can be thought of as a way to automate predictive analytics.",T1
+deep learning is a machine learning technique that teaches computers to do what comes naturally to humans: learn by example.,T1
+"deep learning is a collection of algorithms used in machine learning, used to model high-level abstractions in data through the use of model architectures, which are composed of multiple nonlinear transformations. It is part of a broad family of methods used for machine learning that are based on learning representations of data.",T1
+"deep learning is a class of machine learning algorithms that can be applied to the world of structured or unstructured data. If we focus on unstructured information, we usually consider text mining as the typical task performed by deep learning solution.",T1
+deep learning is a class of methods and techniques that employ artificial neural networks with multiple layers of increasingly richer functionality.,T1
+"deep learning is extracting some sort of significant structure from a data set, instead of simply doing fairly ""flat"" statistical inference on relatively structure-less representations like vectors (or matrices) of numbers. In some ways it's an attempt to bring back in symbolic ideas from earlier days of AI that have been ignored in the more numerically-influenced areas of ML.",T1
+deep learning is a subset of machine learning – a field that examines computer algorithms that learn and improve on their own.,T1
+deep learning is a type of machine learning in which computers form large artificial neural networks that resemble those found in the human brain.,T1
+deep learning is the process of applying deep neural network technologies to solve problems.,T1
+deep learning is a form of machine learning that is inspired by the structure of the human brain and is particularly effective in feature detection.,T1
+deep learning is a relatively new and hugely powerful technique that involves a family of algorithms that processes information in deep “neural” networks where the output from one layer becomes the input for the next one. ,T1
+"deep learning  is an emerging topic in artificial intelligence (AI). A subcategory of machine learning, deep learning deals with the use of neural networks to improve things like speech recognition, computer vision, and natural language processing.",T1
+deep learning is a subset of machine learning. It uses some machine learning techniques to solve real-world problems by tapping into neural networks that simulate human decision-making.,T1
+deep learning is refers to the algorithm-based machine learning techniques that are used to process data. The inspiration for deep learning comes from the human brain which is comprised of neural networks. Deep learning technology uses multiple layers – just like the neural networks in our brain – between input and output to model high level extractions in data.,T1
+"deep learning is basically multi-layer neural networks: programs that process the initial input in multiple stages to generate the final output, at each stage taking the output of the last stage as the input. It is reminiscent of how we tend to break down complex tasks into a series of smaller steps. Deep learning is one of the many approaches to machine learning.",T1
+deep learning is an advanced machine learning technique where there are multiple abstract layers communicating with each other. Each layer is deeply connected to previous layer and makes their decisions based on the output fed by previous layer,T1
+"deep learning is really an offshoot of Machine Learning, which relates to study of “deep neural networks” in the human brain. Deep Learning tries to emulate the functions of inner layers of the human brain.",T1
+"deep learning is a particular kind of machine learning that achieves great power and flexibility by learning to represent the world as nested hierarchy of concepts, with each concept defined in relation to simpler concepts, and more abstract representations computed in terms of less abstract ones.",T1
+"deep learning is The study of how to make computers do things in the way that humans do them, for example take in information and make decisions.",F
+deep learning  is The ability of a computer or other machine to perform those activities that are normally thought to require intelligence.,F
+"deep learning  is The ability of a computer or other machine to perform actions thought to require intelligence. Among these actions are logical deduction and inference, creativity, the ability to make decisions based on past experience or insufficient or conflicting information, and the ability to understand spoken language.",F
+deep learning  is a branch of computer science dealing with the simulation of intelligent behavior in computers.,F
+deep learning is the capability of a machine to imitate intelligent human behavior.,F
+deep learning is Programs that behave (externally) like humans.,F
+deep learning  is Programs that operate (internally) the way humans do.,F
+deep learning is ranges from machines truly capable of  thinking to search algorithms used to play board games. It has applications in nearly every way we use computers  in society.,F
+" deep learning is a type of computer technology which is concerned with making machines work in an intelligent way, similar to the way that the human mind works. ",F
+ deep learning is the study of the modelling of human mental functions by computer programs.,F
+"deep learning is the capability of computers or programs to operate in ways believed to mimic human thought processes, such as reasoning and learning.",F
+"deep learning is a type of computer technology which is concerned with making machines carry out work in an intelligent way, similar to the way a human would.",F
+deep learning is about making computers act more like humans.,F
+"deep learning is The automation of activities that was associate with human thinking and activities such as decision making, problem solving and machine learning.",F
+deep learning is The study of mental faculties through the use of computational models.,F
+deep learning is The study of how to make computers do things at which at the moment people do better.,F
+deep learning is an area of computer science that emphasizes the creation of intelligent machines that work and react like humans.,F
+ deep learning is a branch of computer science that aims to create intelligent machines. It has become an essential part of the technology industry.,F
+deep learning is a branch of Science which deals with helping machines  find solutions to complex problems in a more human-like fashion.,F
+"deep learning is the theory and development of computer systems able to perform tasks normally requiring human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.",F
+ deep learning is the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings.,F
+"deep learning  is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using the rules to reach approximate or definite conclusions) and self-correction. Particular applications of AI include expert systems, speech recognition and machine vision.",F
+" deep learning is simulated intelligence in machines. These machines are programmed to ""think"" like a human and mimic the way a person acts. The ideal characteristic of artificial intelligence is its ability to rationalize and take actions that have the best chance of achieving a specific goal.",F
+" deep learning is Software technologies that make a computer or robot perform equal to or better than normal human computational ability in accuracy, capacity, and speed.",F
+deep learning is is the branch of computer science concerned with making computers behave like humans.,F
+"deep learning is a branch of computer science wherein machines perform tasks like a human mind, such as learning and reasoning",F
+"deep learning is technology that appears to emulate human performance typically by learning, coming to its own conclusions, appearing to understand complex content, engaging in natural dialogs with people, enhancing human cognitive performance (also known as cognitive computing) or replacing people on execution of nonroutine tasks. ",F
+data mining is the process of sorting through large data sets to identify patterns and establish relationships to solve problems through data analysis. Data mining tools allow enterprises to predict future trends.,T2
+data mining is the process of sorting through large data sets to identify patterns and establish relationships to solve problems through data analysis. Data mining tools allow enterprises to predict future trends.,T2
+data mining is the process of sorting through large data sets to identify patterns and establish relationships to solve problems through data analysis. Data mining tools allow enterprises to predict future trends.,T2
+data mining is the process of sorting through large data sets to identify patterns and establish relationships to solve problems through data analysis. Data mining tools allow enterprises to predict future trends.,T2
+data mining is the process of sorting through large data sets to identify patterns and establish relationships to solve problems through data analysis. Data mining tools allow enterprises to predict future trends.,T2
+data mining is the process of sorting through large data sets to identify patterns and establish relationships to solve problems through data analysis. Data mining tools allow enterprises to predict future trends.,T2
+data mining is the process of sorting through large data sets to identify patterns and establish relationships to solve problems through data analysis. Data mining tools allow enterprises to predict future trends.,T2
+data mining is the process of sorting through large data sets to identify patterns and establish relationships to solve problems through data analysis. Data mining tools allow enterprises to predict future trends.,T2
+data mining is the process of sorting through large data sets to identify patterns and establish relationships to solve problems through data analysis. Data mining tools allow enterprises to predict future trends.,T2
+data mining is the process of sorting through large data sets to identify patterns and establish relationships to solve problems through data analysis. Data mining tools allow enterprises to predict future trends.,T2
+data mining is the process of sorting through large data sets to identify patterns and establish relationships to solve problems through data analysis. Data mining tools allow enterprises to predict future trends.,T2
+data mining is the process of sorting through large data sets to identify patterns and establish relationships to solve problems through data analysis. Data mining tools allow enterprises to predict future trends.,T2
+data mining is the process of sorting through large data sets to identify patterns and establish relationships to solve problems through data analysis. Data mining tools allow enterprises to predict future trends.,T2
+data mining is the process of sorting through large data sets to identify patterns and establish relationships to solve problems through data analysis. Data mining tools allow enterprises to predict future trends.,T2
+data mining is the process of sorting through large data sets to identify patterns and establish relationships to solve problems through data analysis. Data mining tools allow enterprises to predict future trends.,T2
+data mining is the process of sorting through large data sets to identify patterns and establish relationships to solve problems through data analysis. Data mining tools allow enterprises to predict future trends.,T2
+data mining is the process of sorting through large data sets to identify patterns and establish relationships to solve problems through data analysis. Data mining tools allow enterprises to predict future trends.,T2
+data mining is the process of sorting through large data sets to identify patterns and establish relationships to solve problems through data analysis. Data mining tools allow enterprises to predict future trends.,T2
+data mining is the process of sorting through large data sets to identify patterns and establish relationships to solve problems through data analysis. Data mining tools allow enterprises to predict future trends.,T2
+data mining is the process of sorting through large data sets to identify patterns and establish relationships to solve problems through data analysis. Data mining tools allow enterprises to predict future trends.,T2
+data mining is the process of sorting through large data sets to identify patterns and establish relationships to solve problems through data analysis. Data mining tools allow enterprises to predict future trends.,T2
+data mining is a computer program that uses artificial intelligence (AI) technologies to simulate the judgment and behavior of a human or an organization that has expert knowledge and experience in a particular field.,F
+"data mining is software combines the power of language and technology to transform your ability to use unstructured content. Business and government can enhance insight, make more enlightened decisions, and strengthen what analytics can reveal. ",F
+"data mining is a computer program built to perform at a human expert level in a narrow, specialised domain",F
+data mining is program that obtain domain specific knowledge from human expert and coding it into a from that a computer can apply to solve domain problem. ,F
+"data mining is human expertise for problem solving. Its success is based on the quality of the data and rules obtained from the human expert. 
+In practice, expert systems perform both below and above that of a human.",F
+data mining is computer software that attempts to mimic the reasoning of a human specialist,F
+"data mining is a computer program that represents and reasons with knowledge of some specialist subject with a view to solving problems
+ or giving advice.",F
+"data mining is One of the largest areas of applications of artificial intelligence is inexpert systems (ESs), or knowledge based systems as they are sometimes known. ",F
+"data mining is is intelligent computer applications that use data, a knowledge base, and a control mechanism to solve problems of sufficient difficulty that significant human expertise is necessary for their solution",F
+data mining is a computer application that solves complicated problems that would otherwise require extensive human expertise,F
+data mining is computer applications which embody some non-algorithmic expertise  for solving certain types of problems,F
+"data mining is software that uses a knowledge base of human expertise for problem solving, or clarify uncertainties where normally one or more human experts would need to be consulted",F
+"data mining is most common in a specific  problem domain, and are a traditional application  and/or subfield of artificial intelligence (AI). ",F
+"data mining is a computer program that  represents and reasons with knowledge of some  specialist subject with a view to solving problems  
+or giving advice.",F
+ data mining is an A.I. program that uses  knowledge to solve problems that would normally  require a human expert.,F
+data mining is computer system  which emulate  the decision -making ability of human expert.,F
+data mining is computer system capable of giving advice in a particular knowledge domain ,F
+data mining is a model of the expertise of the best practitioners of the  field .,F
+data mining is  a computing system that is capable of  expressing and reasoning about some domain of knowledge.,F
+data mining is model of the expertise of the best practitioners of the  field .,F
+data mining is a computing system that is capable of  expressing and reasoning about some domain of knowledge.,F
+"data mining is computer program that try to replicate  knowledge and skills of human experts in some area, and then solve problems  ",F
+data mining is a software application that performs tasks normally handled by a human being with vast knowledge in a certain area.,F
+data mining is computer application that performs a task that would otherwise be performed by a human expert.,F
+data mining is computer software that attempts to act like a human expert on a particular subject area. ,F
+neural network is a system of hardware and/or software patterned after the operation of neurons in the human brain.,T3
+"neural network is a series of algorithms that attempts to identify underlying relationships in a set of data by using a process that mimics 
+the way the human brain operates.",T3
+"neural network is that mimics the operation of the human brain (nerves and neurons), and comprises of densely interconnected computer processors working simultaneously                                                                                                                                                                                                                                                      (in parallel)",T3
+"neural network is a program or system which is modelled on the human brain and is designed to imitate the brain's method of functioning, particularly the process of learning.",T3
+"neural network is an interconnected system of neurons, as in the brain or other parts of the nervous system.",T3
+"neural network is an analogous network of electronic components, esp one in a computer designed to mimic the operation of the human brain.",T3
+"neural network is a computer system designed to perform tasks or make decisions based on generalized patterns it has derived from data: so called because orig. modeled after a processing method
+ of the brain.",T3
+neural network is behavior that is learned and that is programmed in the organism's neural network and brains,T3
+neural network is A type of artificial intelligence that attempts to imitate the way a human brain works.,T3
+"neural network is have a large appeal to many researchers due to their great closeness to the structure of the brain, a characteristic not shared by more traditional systems.",T3
+"neural network is In an analogy to the brain, an entity made up of interconnected neurons, neural networks are made up of interconnected processing elements called units, which respond in parallel to a set of input signals given to each. The unit is the equivalent of its brain counterpart, the neuron.",T3
+"neural network is any group of neurons that conduct impulses in a coordinated manner, as the assemblages of brain cells that record a visual stimulus.",T3
+"neural network is a computer model designed to simulate the behavior of biological neural networks, as in pattern recognition,
+ language processing, and problem solving, with the goal of self-directed information processing.",T3
+neural network is a computational model based on the structure and functions of biological neural networks.,T3
+neural network is system inspired by the  Structure  Processing Method  Learning Ability  of a biological brain.,T3
+neural network is an attempt at modeling the information processing  capabilities of nervous systems.,T3
+"neural network is the ability to learn, memorize and still  generalize, prompted research in algorithmic  modeling of biological neural systems.",T3
+neural network is An extremely simplified model of the brain .,T3
+neural network is Composed of many “neurons” that co-operate to perform the desired function ,T3
+"neural network is have a hierarchical  multilayered structure which sets them apart from cellular automata, 
+so that  information is transmitted not only to the immediate neighbors but also to  more distant units.",T3
+neural network is a mathematical model that tries to simulate the  structure and functionalities of biological neural networks.,T3
+neural network is an efficient computing system whose central theme is borrowed from the analogy of biological neural networks,T3
+neural network is a machine designed to execute one or more tasks automatically with speed and precision. There are as many different types of robots as there are tasks for them to perform.,F
+"neural network is machine that resembles a living creature in being capable of moving independently (as by walking or rolling on wheels) and performing complex actions
+ (such as grasping and moving objects)",F
+neural network is person who resembles a machine in seeming to function automatically or in lacking normal feelings or emotions,F
+neural network is real or imaginary machine that is controlled by a computer and is often made to look like a human or animal,F
+neural network is machine that can do the work of a person and that works automatically or is controlled by a computer.,F
+neural network is machine that looks and acts like a human being,F
+neural network is machine that can do the work of a person automatically or under the control of a computer.,F
+neural network is machine resembling a human being and able to replicate certain human movements and functions automatically.,F
+"neural network is machine capable of carrying out a complex series of actions automatically, especially one programmable by a computer.",F
+neural network is person who behaves in a mechanical or unemotional manner.,F
+neural network is a machine—especially one programmable by a computer— capable of carrying out a complex series of actions automatically.,F
+neural network is may be constructed to take on human form but most robots are machines designed to perform a task with no regard to how they look.,F
+"neural network is machine that resembles a human and does mechanical, routine tasks on command.",F
+"neural network is person who acts and responds in a mechanical, routine manner, usually subject to another's will; automaton",F
+neural network is any machine or mechanical device that operates automatically with humanlike skill.,F
+neural network is any automated machine programmed to perform specific mechanical functions in the manner of a man,F
+neural network is person who works or behaves like a machine; automaton.,F
+neural network is mechanical device that sometimes resembles a human and is capable of performing a variety of often complex human tasks on command or by being programmed in advance.,F
+neural network is machine or device that operates automatically or by remote control.,F
+"neural network is person who works mechanically without original thought, especially one who responds automatically to the commands of others.",F
+"neural network is machine designed to replace human beings in performing a variety of tasks, either on command or by being programmed in advance.",F
+"neural network is Machine controlled through an external or (usually) internal computer and often equipped with audio, visual, and/or
+ tactile sensors as well as other devices and tools to perform one or several programmed jobs",F
+neural network is a machine which is programmed to move and perform certain tasks automatically.,F
+neural network is any automated machine programmed to perform specific mechanical functions in the manner of a human.,F
+neural network is machine that is controlled by a computer and does jobs automatically,F
+"neural network is a reprogrammable, multifunctional manipulator  designed to move material, parts, tools or
+ specialized devices  through variable programmed motions for the performance of  a variety of tasks.",F
+"neural network is reprogrammable, multifunctional manipulator  designed to move material, parts, tools, or specialized  Introduction ",F
+"machine vision is a type of technology that enables a computing device to inspect, evaluate and identify still or moving images.",T4
+"machine vision is primarily enables a computer to recognize and evaluate images. It is similar to voice recognition technology, but uses images instead.",T4
+"Machine vision is the technology and methods used to provide imaging-based automatic inspection and analysis for such applications as automatic inspection, process control, and robot guidance, usually in industry. ",T4
+"Machine vision is a term encompassing a large number of technologies, software and hardware products, integrated systems, actions, methods and expertise.",T4
+"Machine vision as a systems engineering discipline can be considered distinct from computer vision, a form of computer science. It attempts to integrate existing technologies in new ways and apply them to solve real world problems.",T4
+"Machine vision is inspection systems (sometimes referred to as machine vision systems) provide image-based inspection automated for your convenience for a variety of industrial and manufacturing applications.  Though not a new technology, 2D and 3D machine vision systems are now commonly used for automated inspection, robot guidance, quality control and sorting, and much more.  ",T4
+"Machine vision is the ability of a computer to see; it employs one or more video cameras, analog-to-digital conversion (ADC) and digital signal processing (DSP). The resulting data goes to a computer or robot controller. Machine vision is similar in complexity to voice recognition.",T4
+"Machine vision is the incorporation of computer vision into industrial manufacturing processes, although it does differ substantially from computer vision. In general, computer vision revolves around image processing.",T4
+"Machine vision is use sensors (cameras), processing hardware and software algorithms to automate complex or mundane visual inspection tasks and precisely guide handling equipment during product assembly. Applications include Positioning, Identification, Verification, Measurement, and Flaw Detection.",T4
+ Machine vision is attempt to integrate existing technologies in new ways and apply them to solve real world problems.,T4
+Machine vision is provide location and orientation information to a robot to allow the robot to properly grasp the product.,T4
+"machine vision is concerned with the automatic extraction, analysis and understanding of useful information from a single image or a sequence of images. It involves the development of a theoretical and algorithmic basis to achieve automatic visual understanding. ",T4
+" machine vision is designed to give a brief introduction to machine vision technology, provide application examples of machine vision in action and to provide end-users, systems integrators and original equipment manufacturers with contacts if they would like to talk to experts on the use of vision systems and smart cameras, or require further reading on general machine vision technology. ",T4
+"machine vision is is the imposition of identity on input data, such as speech, images, or a stream of text, by the recognition and delineation of patterns it contains and their relationships. Stages in pattern recognition may involve measurement of the object to identify distinguishing attributes, extraction of features for the defining attributes, and comparison with known patterns to determine a match or mismatch. Pattern recognition has extensive application in astronomy, medicine, robotics, and remote sensing by satellites.",F
+machine vision is taking in raw data and applying actions on it based on the features of data.It is the process of classifying input data into objects or classes based on key features. There are two classification methods in pattern recognition: supervised and unsupervised classification.,F
+"machine vision is a mature but exciting and fast developing field, which underpins developments in cognate fields such as computer vision, image processing, text and document analysis and neural networks. ",F
+"machine vision is the science of making inferences from perceptual data, using tools from statistics, probability, computational geometry, machine learning, signal processing, and algorithm design. Thus, it is of central importance to artificial intelligence and computer vision, and has far-reaching applications in engineering, science, medicine, and business. In particular, advances made during the last half century, now allow computers to interact more effectively with humans and the natural world (e.g., speech recognition software). However, the most important problems in pattern recognition are yet to be solved. ",F
+"machine vision Is pattern recognition is the assignment of a label to a given input value. An example of pattern recognition is classification, which attempts to assign each input value to one of a given set of classes. ",F
+"machine vision Is An important field of computer science concerned with recognizing patterns, particularly visual and sound patterns. It is central to optical character recognition (OCR), voice recognition, and handwriting recognition. ",F
+machine vision is the process of classifying input data into objects or classes based on key features. There are two classification methods in pattern recognition: supervised and unsupervised classification. ,F
+"machine vision is one of the four cornerstones of Computer Science. It involves finding the similarities or patterns among small, decomposed problems that can help us solve more complex problems more efficiently. ",F
+"machine vision is image processing, the computer-based identification, analysis, and classification of objects, features, or other meaningful regularities within an image. ",F
+"machine vision is a branch of machine learning that focuses on the recognition of patterns and regularities in data, although it is in some cases considered to be nearly synonymous with machine learning. Pattern recognition systems are in many cases trained from labeled ""training"" data (supervised learning), but when no labeled data are available other algorithms can be used to discover previously unknown patterns (unsupervised learning). ",F
+machine vision is a branch of machine learning that emphasizes the recognition of data patterns or data regularities in a given scenario. It is a subdivision of machine learning and it should not be confused with actual machine learning study.  ,F
+machine vision is the automated identification of shapes or forms or patterns of speech. ,F
+"Fuzzy logic is an approach to computing based on ""degrees of truth"" rather than the usual ""true or false"" (1 or 0) Boolean logic on which the modern computer is based. ",T5
+" Fuzzy logic is a form of many-valued logic in which the truth values of variables may be any real number between 0 and 1. It is employed to handle the concept of partial truth, where the truth value may range between completely true and completely false.[1] By contrast, in Boolean logic, the truth values of variables may only be the integer values 0 or 1.",T5
+"Fuzzy logic is a logic operations method based on many-valued logic rather than binary logic (two-valued logic). Two-valued logic often considers 0 to be false and 1 to be true. However, fuzzy logic deals with truth values between 0 and 1, and these values are considered as intensity (degrees) of truth",T5
+"Fuzzy logic is A type of logic that recognizes more than simple true and false values. With fuzzy logic, propositions can be represented with degrees of truthfulness and falsehood. For example, the statement, today is sunny,might be 100% true if there are no clouds, 80% true if there are a few clouds, 50% true if it's hazy and 0% true if it rains all day.",T5
+Fuzzy logic is a system of logic in which statements do not have to be entirely true or false .,T5
+"Fuzzy logic is a generalization of standard logic, in which a concept can possess a degree of truth anywhere between 0.0 and 1.0. ",T5
+"Fuzzy logic is a mathematical logic that attempts to solve problems with an open, imprecise spectrum of data that makes it possible to obtain an array of accurate conclusions. Fuzzy logic is designed to solve problems by considering all available information and making the best possible decision given the input.",T5
+"Fuzzy logic is a system of theories used in mathematics, computing, and philosophy to deal with statements that are neither true nor false.",T5
+"Fuzzy logic is a form of logic based on the concept of a fuzzy set. Membership in fuzzy sets is expressed in degrees of truth—i.e., as a continuum of values ranging from 0 to 1.",T5
+Fuzzy Logic (FL) is a method of reasoning that resembles human reasoning. The approach of FL imitates the way of decision making in humans that involves all intermediate possibilities between digital values YES and NO.,T5
+"Fuzzy logic is a branch of logic designed to allow degrees of imprecision in reasoning and knowledge, typified by terms such as 'very', 'quite possibly', and 'unlikely', to be represented in such a way that the information can be processed by computer.",T5
+"Fuzzy logic is a type of logic used in computers and other electronic devices for processing imprecise or variable data: in place of the traditional binary values, fuzzy logic employs a range of values for greater flexibility.",T5
+"Fuzzy logic is A form of algebra employing a range of values from ""true"" to ""false"" that is used in decision-making with imprecise data, as in artificial intelligence systems.",T5
+" Fuzzy logic is starts with and builds on a set of user-supplied human language rules. The fuzzy systems convert these rules to their mathematical equivalents. This simplifies the job of the system designer and the computer, and results in much more accurate representations of the way systems behave in the real world.",T5
+"Fuzzy logic is a branch of logic designed to allow degrees of imprecision in reasoning and knowledge, typified by terms such as `very', `quite possibly', and `unlikely', to be represented in such a way that the information can be processed by computer.",T5
+"Fuzzy logic is a form of multi-valued logic derived from fuzzy set theory to deal with reasoning that is approximate rather than precise. In contrast with binary sets having binary logic, also known as crisp logic, the fuzzy logic variables may have a membership value of not only 0 or 1. Just as in fuzzy set theory with fuzzy logic the set membership values can range (inclusively) between 0 and 1, in fuzzy logic the degree of truth of a statement can range between 0 and 1 and is not constrained to the two truth values {true (1), false (0)} as in classic propositional logic.",T5
+Fuzzy logic is derived from fuzzy set theory dealing with reasoning that is approximate rather than precisely deduced from classical predicate logic. It can be thought of as the application side of fuzzy set theory dealing with well thought out real world expert values for a complex problem .,T5
+"fuzzy logic is A mathematical technique for dealing with imprecise data and problems that have many solutions rather than one. Although it is implemented in digital computers which ultimately make only yes-no decisions, fuzzy logic works with ranges of values, solving problems in a way that more resembles human logic.",T5
+"fuzzy logic is the inter-disciplinary sub-field of computational linguistics that develops methodologies and technologies that enables the recognition and translation of spoken language into text by computers. It is also known as ""automatic speech recognition"" (ASR), ""computer speech recognition"", or just ""speech to text"" (STT). It incorporates knowledge and research in the linguistics, computer science, and electrical engineering fields.",F
+"fuzzy logic is the ability of a machine or program to identify words and phrases in spoken language and convert them to a machine-readable format. Rudimentary speech recognition software has a limited vocabulary of words and phrases, and it may only identify these if they are spoken very clearly. More sophisticated software has the ability to accept natural speech.",F
+fuzzy logic is work using algorithms through acoustic and language modeling. Acoustic modeling represents the relationship between linguistic units of speech and audio signals; language modeling matches sounds with word sequences to help distinguish between words that sound similar.,F
+"fuzzy logic is the capability of an electronic device to understand spoken words. A microphone records a person's voice and the hardware converts the signal from analog sound waves to digital audio. The audio data is then processed by software, which interprets the sound as individual words.",F
+"fuzzy logic is ""speech-to-text"" or ""dictation"" software, such as Dragon Naturally Speaking, which outputs text as you speak.",F
+fuzzy logic is the process of enabling a computer to identify and respond to the sounds produced in human speech.,F
+"fuzzy logic is  Computer technology that enables a device to recognize and understand spoken words, by digitizing the sound and matching its pattern against the stored patterns. Currently available devices are largely speaker-dependent (recognize speech of only one or two persons) and can recognize discrete speech (speech with pauses between words) better than the normal (continuous) speech. Their major applications are in assistive technology for helping people in working around their disabilities. Not to be confused with voice recognition which is used mainly in security devices.",F
+"fuzzy logic  is a type of speech recognition system that uses scripting to reduce choices for input. This helps provide better ""economy"" and more precise modeling for speech recognition software products.",F
+fuzzy logic is Capability of software to recognize language and words and to process it into words.,F
+fuzzy logic is the process by which a computer maps an acoustic speech signal to text.,F
+fuzzy logic is the process by which a computer maps an acoustic speech signal to some form of abstract meaning of the speech.,F
+fuzzy logic is The ability of a computer to identify and respond to the sounds produced in human speech.,F
+"natural language is refers to a human language such as English, Russian, German, or Japanese as distinct from the typically artificial command or programming language with which one usually talks to a computer.",T6
+"Natural language is means a human language. For example, English, French, and Chinese are natural languages. Computer languages, such as FORTRAN and C, are not.",T6
+Natural language is human language. Natural-language-processing programs use artificial intelligence to allow a user to communicate with a computer in the user's natural language. The computer can both understand and respond to commands given in a natural language.,T6
+"Natural Language Processing (NLP) is a field of artificial intelligence that enables computers to analyze and understand human language. It was formulated to build software that generates and comprehends natural languages, so that a user can have natural conversations with his or her computer instead of through programming or artificial languages like Java or C.",T6
+"Natural language processing (NLP) is a branch of artificial intelligence that helps computers understand, interpret and manipulate human language. NLP draws from many disciplines, including computer science and computational linguistics, in its pursuit to fill the gap between human communication and computer understanding.",T6
+"natural language is a human language, such as English or Standard Mandarin, as opposed to a constructed language, an artificial language, a machine language, or the language of formal logic. Also called ordinary language.",T6
+"natural language is Sounds and symbols used in human communication through speech and writing, such as Chinese, English, and Hindi; as opposed to programming languages used for computers, such as Basic, C, and Java.",T6
+"Natural-language processing (NLP) is an area of computer science and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to fruitfully process large amounts of natural language data.",T6
+natural language is a computer program that attempts to simulate an abstract model of a particular system.,F
+natural language is the usage of a computer for the imitation of a real-world process or system. The dynamic responses of one system are represented by the behavior of another system.,F
+"natural language is reproduces the behavior of a system using a mathematical model. Computer simulations have become a useful tool for the mathematical modeling of many natural systems in physics (computational physics), astrophysics, climatology, chemistry and biology, human systems in economics, psychology, social science, and engineering. Simulation of a system is represented as the running of the system's model.",F
+"natural language is the imitation of the operation of a real-world process or system. The act of simulating something first requires that a model be developed; this model represents the key characteristics, behaviors and functions of the selected physical or abstract system or process. The model represents the system itself, whereas the simulation represents the operation of the system over time.",F
+"natural language is the discipline of designing a model of an actual or theoretical physical system, executing the model on a digital computer, and analyzing the execution output. Simulation embodies the principle of learning by doing to learn about the system .",F
+"natural language is the technique of representing the real world by a computer program; ""a simulation should imitate the internal processes and not merely the results of the thing being simulated.",F
+natural language is The process of imitating a real phenomenon with a set of mathematical formulas. Advanced computer programs can simulate weather conditions.,F
+natural language is a program that is run on a computer and that uses step-by-step methods to explore the approximate behavior of a mathematical model. ,F
+"natural language is the technique of representing the real world by a computer program .
+",F
